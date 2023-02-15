@@ -1,5 +1,5 @@
 # Frontend Mentor - Order summary card
-# live Demo :
+# live Demo : https://abdokhalil11.github.io/Order-summary-card/
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
